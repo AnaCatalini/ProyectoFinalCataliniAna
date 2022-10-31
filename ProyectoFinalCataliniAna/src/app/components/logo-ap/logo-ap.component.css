@@ -1,0 +1,18 @@
+.container{
+   display: flex; 
+   justify-content: space-between;
+   align-items: center;
+}
+.redes{
+    margin-right: 0.5em;
+}
+#logoAp{
+    width: 200px;
+}
+img{
+    width: 50px;
+}
+.btn{
+    border-width: medium;
+}
+
